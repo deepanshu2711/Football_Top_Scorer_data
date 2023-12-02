@@ -1,0 +1,36 @@
+*{
+    background-color: #ECF4D6;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.top_scorer{
+    position: relative;
+    margin-left: 630px;
+
+    
+    
+}
+
+.form-submit{
+    background-color: #9AD0C2;
+}
+
+.scorer_name{
+    color: #265073;
+}
+.sub{
+    color: #9AD0C2;
+
+}
+.title{
+    color:#265073; 
+}
